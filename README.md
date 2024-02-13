@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms, Vue.js, Nuxt.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishant002](https://github.com/vishant002)
+- 👨‍💻 All of my projects are available at [https://github.com/vshaant](https://github.com/vshaant)
 
 - 📫 How to reach me **vishant4802@gmail.com**
 
